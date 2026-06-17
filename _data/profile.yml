@@ -34,19 +34,19 @@ portrait_caption: >-
 
 education:
 - name: University of California, Merced
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/ucmerced.png
   position: >- 
     Department of Applied Mathematics <br/>
     Ph.D. Student
   date: Sep. 2026 - Jun. 2031
 - name: Northwestern University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/nu.png
   position: >- 
     Department of Engineering Sciences & Applied Mathematics <br/>
     M.S. in Applied Math
   date: Sep. 2024 - Dec. 2025
 - name: China University of Mining and Technology (Beijing)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/cumtb.png
   position: >- 
     School of Science <br/>
     B.S. Student
