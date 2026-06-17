@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yuxiang Feng"
 
 positions:
-- name: Ph.D
+- name: Ph.D student
 - name: University of California, Merced
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -32,9 +32,9 @@ short_bio: >-
     Feel free to reach out for discussions and collaborations!
   </p>
 
-portrait_url: /assets/images/photos/yxf.JPG
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/yxf_web.jpg
+# portrait_caption: >-
+#   Optional caption here.
 
 education:
 - name: University of California, Merced
