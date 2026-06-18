@@ -2,7 +2,8 @@
 title:          "Data-driven dynamical systems discovery: Embracing uncertainty."
 date:           2026-03-18 
 selected:       false
-no_cover:       true
+#no_cover:       true
+cover:          /assets/images/covers/embrace.jpg
 pub:            "APS Global Physics Summit 2026"
 # pub_pre:        "Submitted to "
 #pub_post:       'Under review.'
