@@ -2,6 +2,7 @@
 title:          "Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study"
 date:           2026-03-11 
 selected:       true
+no_cover:       true
 #pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
